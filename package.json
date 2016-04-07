@@ -1,6 +1,6 @@
 {
   "name": "wechat-api",
-  "version": "1.22.0",
+  "version": "1.27.1",
   "description": "微信公共平台Node库 API",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
     "wechat"
   ],
   "dependencies": {
-    "formstream": ">=0.0.8",
-    "urllib": "2.6.0"
+    "formstream": ">=1.0.0",
+    "urllib": "2.8.0"
   },
   "devDependencies": {
     "mocha": "*",
